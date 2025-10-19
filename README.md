@@ -136,10 +136,12 @@ int main() {
 
 
 ## OUTPUT
-$ ./sem.o
+## ./sem.o
+
 <img width="665" height="437" alt="image" src="https://github.com/user-attachments/assets/c93f34b3-9b87-4402-bfe7-ce0ef3857d14" />
 
-$ ipcs
+## ipcs
+
 <img width="665" height="437" alt="image" src="https://github.com/user-attachments/assets/c090226d-d74a-436a-876e-5ccd6238d574" />
 
 
